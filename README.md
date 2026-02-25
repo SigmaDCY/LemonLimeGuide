@@ -93,13 +93,12 @@ Windows 系统在评测过程中，你可能会注意到 C 盘被快速占用，
 
 ![个人评测结果](https://cdn.luogu.com.cn/upload/image_hosting/u3tbcv8s.png)
 
-> 配置
-> | 配置项 | 参数 |
-> |:-----:|:----:|
-> | 处理器型号 | Intel(R) Core(TM) Ultra 7 155H (3.80 GHz) |
-> | RAM | 32.0GB |
-> | 系统 | Windows 11 |
-> | 最大评测线程数 | 7 |
+> ## 配置
+> 
+> 处理器型号：Intel(R) Core(TM) Ultra 7 155H (3.80 GHz)\
+> RAM：32.0GB\
+> 系统：Windows 11\
+> 最大评测线程数：7
 
 同时，也可以点击 “控制>导出成绩或导出统计信息” 来生成成绩和统计信息的 HTML 或 csv 文件，建议使用 HTML，因为可以显示颜色。
 
